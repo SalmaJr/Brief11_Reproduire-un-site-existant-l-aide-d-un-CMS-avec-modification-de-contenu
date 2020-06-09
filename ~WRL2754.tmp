@@ -1,6 +1,7 @@
 # Brief11_Reproduire-un-site-existant-l-aide-d-un-CMS-avec-modification-de-contenu
 
 
+Def…
 
 La plupart des entreprises se tournent vers les systèmes de gestion de contenu (CMS) lorsqu’elles développent leur site Web. Un CMS permet à l’utilisateur de gérer son site Web sans nécessairement avoir besoin de connaissances en programmation, ce qui est souvent une caractéristique recherchée dans les petites et moyennes entreprises. Le principal avantage qu’offre un CMS est sa simplicité à gérer le contenu du site, c’est beaucoup plus facile d’utiliser que du code HTML et CSS.
 
@@ -17,54 +18,3 @@ Bitrix	  1.6%
 Blogger	  1.6%
 Magento	  1.4%
 PrestaShop	  1.0%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Installation WORDPRESS 
-
-Télécharger wordpress depuis le site wordpress.org ;
-
-Extraire à l'intérieur d'un virtual host ;
-
-Créer la base de données (wp_b11) ;
-
-Continuer l’installation :
-
-- Choisir la langue ;
-
-
-- Entrer les données de la connexion à la base de données ;
-
-
-
-
-
-- Continuer l’installation avec les données nécessaires et se connecter avec l’utilisateur créé auparavant ; 
-
- 
-
-- Installer le thème demandé/préféré et commencer le travail ;  
-
-
-
-Les pages créés avec wordpress sont sous forme de captures d’écran, nommées par : home.png, cv.png, contact.png 
